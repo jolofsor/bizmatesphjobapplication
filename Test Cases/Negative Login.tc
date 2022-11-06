@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case aims to verify that logging in as an invalid user is not allowed</description>
+   <name>Negative Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ada4dc7-607e-4592-b9ef-bed9e9d02800</testCaseGuid>
+</TestCaseEntity>

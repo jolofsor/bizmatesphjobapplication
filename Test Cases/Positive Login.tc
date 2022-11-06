@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case aims to verify that logging in as a valid user is allowed</description>
+   <name>Positive Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3ee5371-042c-41ae-93b5-9413e8cefb87</testCaseGuid>
+</TestCaseEntity>
