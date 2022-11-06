@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description>This test suite contains the login test cases for the Demoblaze Store Web Application</description>
-   <name>Login</name>
+   <name>Login and Logout</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -15,7 +15,7 @@
       <guid>111a1211-6db6-4cde-bf3b-fa54f1f6175e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Positive Login</testCaseId>
+      <testCaseId>Test Cases/Positive Login and Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
